@@ -2,7 +2,7 @@
 
 Eliza est un chatbot discord connecté à chatgpt et répond aux demandes que vous lui faites. 
 
-Pour installer les dépendances tapez cette commance dans la console :
+Pour installer les dépendances tapez cette commande dans la console :
 
 ```bash
 npm i
